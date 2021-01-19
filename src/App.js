@@ -7,9 +7,9 @@ function App() {
 	return (
 		<div className='App'>
 			<Header />
-			<main>
+			<main className='py-3'>
 				<Container>
-					<h1>Vegan Vita Tienda</h1>
+					<h1>Bienvenidos a Vegan Vita</h1>
 				</Container>
 			</main>
 			<Footer />
